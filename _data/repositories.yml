@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AbhishekSinghDhadwal
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AbhishekSinghDhadwal/Indian-Sign-Language-Translator
+  - AbhishekSinghDhadwal/GeneticAlgorithm_TSP_Demo
+  - AbhishekSinghDhadwal/MRUNet-Masking
+  - AbhishekSinghDhadwal/commons-rng
