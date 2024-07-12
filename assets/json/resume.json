@@ -1,163 +1,293 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Abhishek Singh Dhadwal",
+    "label": "Software Developer and Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "asinghdhadwal@gmail.com",
+    "phone": "+91 8879247654",
+    "url": "https://abhisheksinghdhadwal.github.io/al-folio/",
+    "summary": "Result-oriented technical analyst researching and deriving insights in the fields of finance and digital healthcare. Proven ability to develop and deploy trading applications, investigating data driven medicine, and implement machine learning algorithms.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "AZ 85281",
+      "city": "Tempe",
       "countryCode": "US",
-      "region": "California"
+      "region": "Arizona"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "abhishek-singh-dhadwal",
+        "url": "https://www.linkedin.com/in/abhishek-singh-dhadwal/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Credit Suisse Services AG",
+      "position": "Exempt Non-Officer - Software Development, Investment Banking",
+      "url": "https://www.credit-suisse.com/in/en.html",
+      "startDate": "2023-07-12",
+      "endDate": "2024-05-11",
+      "summary": "• Developed and managed a global order management system for Stocks, Futures, and Options within the Cash Equity business, ensuring precise execution to meet diverse client needs amid fluctuating market conditions.\n• Managed deployments and modifications of trading services encompassing short sell order locators, compliance and administrative applications.\n• Oversaw 85+ production level changes (RFCs) over two years, demonstrating expertise in C# and WinForms development along with database skills in Sybase and Oracle.\n• Recognized with 2 RAVE (Recognizing Value and Excellence) awards for exceptional partnership, accountability, and contributions to project success",
+      "highlights": ["Software Development","C#","Order Management Systems","Database Management"]
+    },
+    {
+      "name": "Credit Suisse Business Analytics",
+      "position": "Technical Analyst, Investment Banking ",
+      "url": "https://www.credit-suisse.com/in/en.html",
+      "startDate": "2021-07-12",
+      "endDate": "2023-07-11",
+      "summary": "• Created and revamped crucial daily ETL (Extract, Transform, and Load) jobs to fetch data from stock exchanges to the Credit Suisse Program Trading database, incorporated by traders to book and review trades.\n• Interacted and coordinated with stakeholders across regions (US, UK, APAC) to discuss software requirements,design, and creation of automated reports based on C#’s .NET Core and the .NET Framework.\n• Reduced ETL job creation time by 70% by templating and revamping legacy methods for the same.",
+      "highlights": ["Data Analysis","ETL","SQL","C#"]
+    },
+    {
+      "name": "Visvesvaraya National Institute of Technology, Nagpur",
+      "position": "Research Assistant, Digital Healthcare",
+      "url": "https://vnit.ac.in",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-30",
+      "summary": "• Conducted quantitative research towards the creation of a novel multimodal early detection approach for mental health ailments based on an end-to-end machine learning pipeline, under the guidance of Dr. Praveen Kumar.\n • Designed remote sensing protocols for the collection of user smartphone data (via AWS S3 Buckets) and extracted high-level features for smartphone, audio, and visual data (using NumPy and Pandas) using Python.\n• Optimized memory efficiency of data collection by 90% over the pre-existing methodology.\n• Co-authored 2 internationally published papers on the topic, providing valuable insights into the approach’s effectiveness for future researchers",
+      "highlights": ["Quantitative Research","Multimodal Machine Learning","Digital Healthcare","Python"]
+    },
+    {
+      "name": "The Apache Software Foundation",
+      "position": "Software Developer, Google Summer of Code 2019",
+      "url": "https://www.apache.org/",
+      "startDate": "2019-05-25",
+      "endDate": "2019-07-25",
+      "summary": "• Researched and implemented pseudorandom number generators for the Apache Commons open-source project.\n• Accomplished the integration of LCG, Permuted Congruential Generator variants, and other generators into the commons-rng repositories, adopted by thousands of developers globally.\n• Applied Java’s Maven, JUnit, and JMH for project building and test suite creations for all 3 variants of generators",
+      "highlights": ["PRNG","Java"]
+    },
+    {
+      "name": "Credit Suisse",
+      "position": "Technology Intern, International Wealth Management",
+      "url": "https://www.credit-suisse.com/in/en.html",
+      "startDate": "2020-05-05",
+      "endDate": "2020-06-05",
+      "summary": "• Collaborated on delivering Continuous Integration and DevOps solutions for the IWM Tech Department.\n• Engaged in the deployment of Load balancers and OpenShift Clusters for cross-functional projects",
+      "highlights": ["Openshift","C#"]
+    },
+    {
+      "name": "Reliance Infrastructure (now Adani)",
+      "position": "Internship Trainee, Central Technical Services",
+      "url": "https://www.rinfra.com/",
+      "startDate": "2018-05-10",
+      "endDate": "2018-06-11",
+      "summary": "• Collaborated on delivering Continuous Integration and DevOps solutions for the IWM Tech Department.\n• Engaged in the deployment of Load balancers and OpenShift Clusters for cross-functional projects",
+      "highlights": ["JavaScript",".NET Framework","Web Development"]
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+    
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Arizona State University, United States of America",
+      "location": "Tempe, Arizona",
+      "url": "https://www.asu.edu/",
+      "area": "Computer Science (Biomedical Informatics)",
+      "studyType": "MS (Thesis)",
+      "startDate": "2024-08-22",
+      "endDate": "",
+      "score": "",
+      "courses": ["Joining in Fall 24"]
+    },
+    {
+      "institution": "Visvesvaraya National Institute of Technology, Nagpur",
+      "location": "Maharashtra, India",
+      "url": "https://vnit.ac.in/",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelors (B.Tech)",
+      "startDate": "2017-07-22",
+      "endDate": "2021-05-20",
+      "score": "3.5/4.0 (WES)",
+      "courses": ["Data Structures and Program Design","Software Engineering","Operating Systems","Neuro-Fuzzy Techniques","Database Management Systems","Introduction to Object Oriented Methodology","Design and Analysis of Algorithms","Theory of Computation"]
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+    
   ],
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2019-02-17",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/account/accomplishments/verify/B38X2GW5EEC2",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Introduction to Psychology",
+      "date": "2019-03-27",
+      "issuer": "Yale University",
+      "url": "https://www.coursera.org/account/accomplishments/verify/8AHAGT7UT2RE",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Analysis using Excel and Tableau",
+      "date": "2023-09-30",
+      "issuer": "EntryLevel",
+      "url": "https://entrylevel-public.s3.amazonaws.com/certificate/e11cc421-f5a3-4336-89d6-4dc6b22774e0/8c51e0a1-328b-4f43-a8f6-763cfb49520f_cert.pdf",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Complete Python Bootcamp",
+      "date": "2019-03-28",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-E96N044V/",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Sentiment Analysis with scikit-learn",
+      "date": "2020-04-25",
+      "issuer": "Coursera Project Network",
+      "url": "https://www.coursera.org/account/accomplishments/verify/X8TYRDYUKZWZ",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A novel multi-modal depression detection approach based on mobile crowdsensing and task-based mechanisms",
+      "publisher": "Springer",
+      "releaseDate": "2022-04-11",
+      "url": "https://link.springer.com/article/10.1007/s11042-022-12315-2",
+      "summary": "We propose a novel depression detection approach by integrating task-based and Mobile Crowd Sensing (MCS) methods. Our pipeline includes data collection, feature extraction, fusion, and classification. Experimental findings show combining multi-modal features excels, especially fusing all three modalities. SVMs achieve 86% accuracy. Our approach outperforms state-of-the-art techniques on benchmark data."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Multimodal Depression Detection: Using Fusion Strategies with Smart Phone Usage and Audio-visual Behavior",
+      "publisher": "World Scientific",
+      "releaseDate": "2023-04-05",
+      "url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213023400080?journalCode=ijait",
+      "summary": "Detecting depression is complex due to variable symptoms arising from individual differences. Our research aims to create a novel classification system for diagnosing depression, considering historical data (like activity levels) and verbal/non-verbal cues (pitch, gaze). We built a real-world dataset combining 14-day smartphone records and audio-visual data, while extracting physiological/behavioral features. Using Decision trees and SVM classifiers with fusion methods, we found SVM with late fusion achieves 89% accuracy. We validated this approach on the DAIC-WOZ dataset, reinforcing its effectiveness."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Python",
+      "level": "Advanced",
+      "icon": "fa-solid fa-python",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+          "Machine Learning",
+          "Data Analysis",
+          "Artificial Intelligence",
+          "Deep Learning",
+          "Automation"
       ]
-    }
+  },
+  {
+      "name": "C#",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+          ".NET Framework",
+          ".NET Core",
+          "WinForms Development",
+          "Software Development"
+      ]
+  },
+  {
+      "name": "Java",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-java",
+      "keywords": [
+          "Core Java",
+          "Maven",
+          "JUnit",
+          "JMH"
+      ]
+  },
+  {
+      "name": "DevOps",
+      "level": "Basic",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+          "Jenkins",
+          "CI/CD",
+          "Load Balancers",
+          "OpenShift"
+      ]
+  },
+  {
+      "name": "SQL",
+      "level": "Basic",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+          "Sybase",
+          "Oracle",
+          "Database Management",
+          "ETL"
+      ]
+  },
+  {
+      "name": "Data Visualization",
+      "level": "Basic",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": [
+          "Tableau",
+          "Pandas",
+          "Data Analysis",
+          "Reporting"
+      ]
+  },
+  {
+      "name": "Computer Vision",
+      "level": "Basic",
+      "icon": "fa-solid fa-eye",
+      "keywords": [
+          "Image Processing",
+          "Deep Learning",
+          "Feature Segmentation",
+          "Object Detection"
+      ]
+  },
+  {
+      "name": "Software Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+          "Full-Stack Development",
+          "Application Development",
+          "Web Development",
+          "Software Design"
+      ]
+  },
+  {
+      "name": "Research",
+      "level": "Advanced",
+      "icon": "fa-solid fa-search",
+      "keywords": [
+          "Quantitative Research",
+          "Mental Health Diagnostics",
+          "Multimodal Detection",
+          "Publications"
+      ]
+  },
+  {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+          "Predictive Modeling",
+          "Data Mining",
+          "Feature Extraction",
+          "Algorithm Development"
+      ]
+  }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
@@ -177,24 +307,80 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Ravi Prasad",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "I highly recommend Mr. Abhishek for his exceptional coding skills, problem-solving abilities, technical expertise, and his flexibility, punctuality, and dedication, which significantly contributed to our successful publication of two articles in reputed international journals."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Mr. Salil Singh",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Abhishek is a multi-skilled, insightful, and strong problem solver, making him a fantastic colleague and an asset to any company."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+      "name": "Indian Sign Language Translator",
+      "summary": "Orchestrated and contributed to the development of an Indian Sign Language Translator to aid individuals suffering from hearing and vocal impairments. The project satisfied the following criteria - Near-Real-Time Application, Background independence, and Illumination independence.",
+      "highlights": ["Near-Real-Time Application", "Background independence", "Illumination independence"],
+      "startDate": "2020-07-25",
+      "endDate": "2021-05-10",
+      "url": "https://github.com/AbhishekSinghDhadwal/Indian-Sign-Language-Translator"
+  },
+  {
+      "name": "Genetic Algorithm Implementation",
+      "summary": "Created an implementation of genetic algorithms for generating solutions of the Travelling Salesman Problem for a large fully connected graph (about 50 nodes). This project involved making fitness, crossover, and randomized Euclidian distance functions with simulators for evolution and graphing accuracy.",
+      "highlights": ["Fitness functions", "Crossover functions", "Randomized Euclidian distance functions"],
+      "startDate": "2019-08-11",
+      "endDate": "2019-09-11",
+      "url": "https://github.com/AbhishekSinghDhadwal/GeneticAlgorithm_TSP_Demo"
+  },
+  {
+      "name": "Comparison of Clustering Techniques",
+      "summary": "Applied clustering techniques like K-Means, BIRCH, and Agglomerative Clustering (AGNES) on the US News and World Reports College Data for the generation of insights into the accuracy of clustering methods when bifurcating Private and Public colleges.",
+      "highlights": ["K-Means", "BIRCH", "Agglomerative Clustering"],
+      "startDate": "2019-10-12",
+      "endDate": "2019-11-11",
+      "url": ""
+  },
+  {
+      "name": "Feature Segmentation via Multi-Res-U-Net Masking",
+      "summary": "Researched an experimental implementation of MultiResUNet for facial feature segmentation using the CelebAMaskHQ dataset. The project aimed to utilize and discover the compatibility provided by MultiResUNet models initially used for Medical Image segmentation.",
+      "highlights": ["MultiResUNet", "Facial Feature Segmentation", "CelebAMaskHQ dataset"],
+      "startDate": "2019-12-01",
+      "endDate": "2019-12-31",
+      "url": "https://github.com/AbhishekSinghDhadwal/MRUNet-Masking"
+  },
+  {
+      "name": "Resource Allocation within a Multi-Client Server",
+      "summary": "Implemented a program for allocating resources that makes use of a single server and can deal with simultaneous demands from a number of client apps. The project incorporated a wait-list queue and locked the resources until they are released by the client apps to maintain resources in sync with all clients.",
+      "highlights": ["Resource Allocation", "Multi-Client Server", "Wait-list Queue"],
+      "startDate": "2020-01-01",
+      "endDate": "2020-02-12",
+      "url": ""
+  },
+  {
+      "name": "Kerberos Protocol Implementation",
+      "summary": "User authentication and ticket generation were prepared using the Kerberos protocol between clients and servers to manage user accesses to services. A Key-Dependent Additive Cipher implementation was applied to encrypt the channels of communication between the client and the servers.",
+      "highlights": ["Kerberos Protocol", "User Authentication", "Key-Dependent Additive Cipher"],
+      "startDate": "2021-02-01",
+      "endDate": "2021-02-21",
+      "url": ""
+  },
+  {
+      "name": "Command Shell Implementation",
+      "summary": "Built a command shell using OS system calls (fork, wait, exec, etc.) to execute built-in Linux commands. Contains the ability to support multiple commands in one prompt along with support for redirection, external signals, and error handling.",
+      "highlights": ["OS System Calls", "Linux Commands", "Redirection"],
+      "startDate": "2018-08-12",
+      "endDate": "2018-09-15",
+      "url": "https://github.com/AbhishekSinghDhadwal/LinuxShellInC"
+  },
+  {
+      "name": "Logistic Regression Classifier for Movie Reviews",
+      "summary": "Created a model to categorize movie reviews (positive or negative) using the IMDB dataset. Utilized sci-kit learn for model creation and NLTK for feature extraction. Optimized model accuracy through hyperparameter tuning.",
+      "highlights": ["Logistic Regression", "IMDB Dataset", "Hyperparameter Tuning"],
+      "startDate": "2020-04-02",
+      "endDate": "2020-04-25",
+      "url": ""
+  }
   ]
 }
